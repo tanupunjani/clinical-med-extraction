@@ -1,0 +1,265 @@
+note_id,normalized,status,dose,frequency,notes
+1298,hydroxyurea,active,1500 mg,,"Hydrea; 1500mg Mon/Fri, 1000mg other days"
+1298,tamsulosin,active,,daily,Flomax
+1298,vitamin d,active,,daily,
+1298,saw palmetto,active,,daily,herbal supplement
+1298,aspirin,active,81 mg,daily,
+1298,vitamin c,active,,daily,
+1304,tetracycline,inpatient,,,resolved ileus
+1304,metoclopramide,inpatient,,,Reglan
+1306,naproxen,planned,,twice daily,Anaprox DS q12h
+1310,fluticasone,active,,,Flonase; maintained on
+1330,hydroxyurea,historical,,,did not tolerate
+1330,interferon,historical,,,did not tolerate
+1330,lenalidomide,historical,,,"intolerance, stopped"
+1330,prednisone,historical,,,part of stopped combination
+1330,aspirin,active,,,prophylaxis
+1330,chlorambucil,negated,,,not a candidate
+1332,rituximab,active,,,
+1332,cyclophosphamide,active,,,
+1332,daunorubicin,active,,,
+1332,vincristine,active,,,
+1332,prednisone,active,,,prescription given
+1343,hylan g-f 20,negated,,,Synvisc; no viscosupplementation in past
+1345,multivitamin,active,,daily,
+1345,aspirin,active,,daily,
+1345,leuprolide,active,,,Lupron q3 months
+1345,tamsulosin,active,0.4 mg,daily,Flomax
+1345,warfarin,active,2.5 mg,daily,
+1347,fentanyl,active,125 mcg,,Duragesic patch q3 days
+1347,hydromorphone,active,1 mg,,Dilaudid PCA q10min lockout
+1347,hydromorphone,active,2 mg,as needed,Dilaudid bolus q3h prn
+1347,lorazepam,active,2 mg,,Ativan q4h
+1347,acetaminophen,active,,,Tylenol per rectum
+1349,vitamin b12,active,1000 mg,,IM monthly
+1349,digoxin,active,250 mcg,every other day,Digitek alternating with 125 mcg
+1349,aspirin,active,81 mg,daily,
+1349,multivitamin,active,,daily,Theragran-M
+1349,metoprolol,active,25 mg,daily,Toprol XL
+1349,vitamin b6,active,100 mg,daily,
+1349,lansoprazole,active,30 mg,daily,Prevacid
+1349,calcium,active,500 mg,three times daily,Oyster Shell calcium with D
+1349,donepezil,active,5 mg,daily,Aricept
+1349,donepezil,planned,10 mg,daily,increased in plan
+1349,acetaminophen,active,650 mg,as needed,Tylenol q4h prn
+1349,furosemide,active,20 mg,as needed,
+1349,nitroglycerin,active,,as needed,sublingual
+1349,alprazolam,active,0.25 mg,as needed,
+1349,sulfa,allergy,,,
+1349,trimethoprim,allergy,,,
+1387,levofloxacin,historical,,,"Levaquin; organism resistant, changed"
+1387,doripenem,inpatient,,,
+1387,insulin,active,,,sliding scale continued
+1387,warfarin,negated,,,"Coumadin on hold, INR high"
+1407,terbinafine,planned,250 mg,daily,"Lamisil; 6 weeks completed, refill given"
+1407,levothyroxine,active,0.1 mg,daily,Levothroid
+1412,insulin aspart,active,20 units,,NovoLog 70/30 morning; 13 units supper
+1412,insulin aspart,planned,24 units,,increased to 24 am / 16 pm
+1441,digoxin,active,,,
+1441,warfarin,active,,,Coumadin continued
+1441,ceftriaxone,inpatient,,,Rocephin
+1441,heparin,inpatient,,,"drip, DVT prophylaxis"
+1449,meclizine,historical,,,Antivert given 3 weeks ago
+1449,benazepril,active,,,Lotensin
+1449,gemfibrozil,active,,,Lopid
+1449,metoprolol,active,,,
+1449,propoxyphene-acetaminophen,active,,,Darvocet
+1449,levothyroxine,active,,,Synthroid
+1449,simvastatin,active,,,Zocor
+1449,valacyclovir,planned,1 g,three times daily,Valtrex x7 days
+1449,meperidine,allergy,,,Demerol
+1449,codeine,allergy,,,
+1456,prednisone,active,5 mg,every other day,
+1456,omeprazole,active,20 mg,twice daily,Prilosec
+1456,levothyroxine,active,50 mcg,daily,
+1456,metoprolol,active,75 mg,daily,Lopressor
+1456,vitamin c,active,500 mg,daily,
+1456,multivitamin,active,,daily,
+1456,simvastatin,active,20 mg,daily,
+1456,valacyclovir,historical,,,off Valtrex 5 days
+1456,hydrocodone-acetaminophen,allergy,,,Vicodin
+1804,propoxyphene,mentioned,,,"Darvocet, self-medicating at home"
+1804,paroxetine,discharge,20 mg,daily,Paxil
+1804,alprazolam,discharge,0.5,as needed,Xanax q4h prn
+1804,acetaminophen,discharge,650 mg,as needed,Tylenol q6h prn
+1804,furosemide,discharge,80 mg,daily,Lasix
+1804,isosorbide,discharge,10 mg,three times daily,Isordil
+1804,potassium chloride,discharge,20 mEq,twice daily,KCl
+1804,lactulose,discharge,10 g,daily,
+1804,losartan,discharge,50 mg,daily,Cozaar
+1804,levothyroxine,discharge,75 mcg,daily,Synthroid
+1804,montelukast,discharge,10 mg,daily,Singulair
+1804,bimatoprost,discharge,,,"Lumigan, both eyes at bedtime"
+1804,nitroglycerin,discharge,,as needed,NitroQuick
+1804,pravastatin,discharge,20 mg,daily,Pravachol
+1804,piroxicam,discharge,20 mg,daily,Feldene
+1804,prazosin,discharge,2 mg,daily,Minipress
+1804,medroxyprogesterone,discharge,,as needed,Provera
+1804,fluticasone-salmeterol,discharge,250/50,twice daily,Advair one puff bid
+1804,senna,discharge,,twice daily,Senokot
+1804,timolol,discharge,,daily,Timoptic OU
+1804,verapamil,discharge,80 mg,twice daily,
+2210,paroxetine,active,40 mg,daily,"Paxil, home + plan"
+2210,meloxicam,active,,,MOBIC at home
+2210,clonazepam,active,1 mg,at bedtime,Klonopin
+2210,celecoxib,active,200 mg,twice daily,Celebrex
+2210,warfarin,active,5 mg,daily,"Coumadin, INR-adjusted"
+2210,docusate,active,100 mg,twice daily,Colace
+2210,butalbital-aspirin-caffeine,active,,,Fiorinal
+2210,oxycodone,active,20 mg,twice daily,SR; plus IR 5mg q4h prn
+2210,enoxaparin,historical,,,Lovenox at prior hospital
+2210,ferrous sulfate,planned,325 mg,daily,Feosol
+2210,pantoprazole,active,40 mg,twice daily,Protonix
+2210,fondaparinux,planned,2.5 mg,daily,Arixtra subcutaneous
+2210,bisacodyl,planned,,as needed,Dulcolax suppository
+2210,lactulose,planned,,as needed,
+2240,enoxaparin,inpatient,,,Lovenox DVT prophylaxis
+2792,acetaminophen,discharge,650 mg,as needed,Tylenol q6h prn headache
+3200,warfarin,active,,,Coumadin
+3200,amiodarone,active,,,Pacerone
+3200,metolazone,active,,,Zaroxolyn
+3200,albuterol,active,,,inhaler
+3200,gabapentin,active,,,Neurontin
+3200,furosemide,active,,,Lasix
+3200,hydrocodone-chlorpheniramine,discharge,,,Tussionex Pennkinetic
+3206,oxycodone,active,,,OxyContin
+3206,hydrocodone-acetaminophen,active,,,Vicodin
+3206,penicillin,allergy,,,
+3206,codeine,allergy,,,
+3207,oxycodone-acetaminophen,active,,as needed,Percocet
+3207,cephalexin,active,500 mg,three times daily,Keflex
+3207,clonidine,active,0.2 mg,twice daily,
+3207,conjugated estrogens-medroxyprogesterone,active,,,"Prempro, dose unknown"
+3207,diclofenac,active,75 mg,daily,
+3207,enalapril,active,10 mg,twice daily,
+3207,glimepiride,active,2 mg,daily,Amaryl
+3207,hydrochlorothiazide,active,25 mg,daily,
+3207,metformin,active,100 mg,twice daily,Glucophage
+3207,nifedipine,active,60 mg,twice daily,extended release
+3207,omeprazole,active,20 mg,daily,
+3207,simvastatin,active,20 mg,at bedtime,Zocor
+3207,dexamethasone,inpatient,,,Decadron
+3207,epinephrine,inpatient,,,racemic epinephrine
+3226,pravastatin,active,,,Pravachol
+3226,phenytoin,active,,,Dilantin
+3226,metoprolol,active,,,Toprol
+3226,nitrofurantoin,active,,,Macrobid
+3226,sulfa,allergy,,,
+3259,promethazine,inpatient,,,Phenergan IV
+3259,ondansetron,inpatient,,,Zofran IV
+3259,ceftriaxone,inpatient,,,Rocephin
+3259,aluminum hydroxide-magnesium hydroxide,inpatient,,,Maalox
+3267,valsartan,active,,,Diovan
+3267,estradiol,active,,,
+3267,amlodipine,active,,,Norvasc
+3267,bupropion,active,,,Wellbutrin SR
+3267,albuterol,inpatient,,,unit dose nebulizer in ED
+3267,morphine,allergy,,,causes vomiting
+3271,diphenhydramine,historical,,,Benadryl one month ago
+3271,hydrochlorothiazide,active,,,
+3271,metoprolol,active,,,
+3271,aspirin,active,,daily,baby aspirin
+3271,loratadine,inpatient,10 mg,,Claritin given in ED
+3271,loratadine,planned,10 mg,daily,continue until swelling resolves
+3271,sulfa,allergy,,,headache
+3271,morphine,allergy,,,nausea and vomiting
+3271,ketorolac,allergy,,,Toradol; ulcer
+3323,insulin glargine,active,30 units,,Lantus
+3323,pioglitazone,active,,,Actos
+3323,glyburide,active,,,
+3323,metformin,active,,,
+3323,cetirizine,planned,,,Zyrtec for allergic rhinitis
+3323,psyllium,planned,,,Metamucil
+3323,mometasone,planned,,,Elocon cream
+3324,hydroxyurea,active,500 mg,daily,
+3324,psyllium,active,,,Metamucil three teaspoons daily
+3324,amitriptyline,active,50 mg,at bedtime,
+3324,levothyroxine,active,0.1 mg,daily,Synthroid
+3324,zolpidem,active,5 mg,at bedtime,Ambien
+3324,triamterene-hydrochlorothiazide,active,75/50,daily,
+3324,hydrocodone-acetaminophen,active,5/500,as needed,Lortab at bedtime prn
+3324,sulfa,allergy,,,
+3324,aspirin,allergy,,,
+3324,propoxyphene,allergy,,,Darvon
+3324,codeine,allergy,,,
+3324,amoxicillin,allergy,,,
+3324,quinine,allergy,,,
+3327,losartan,active,100 mg,daily,Cozaar
+3327,amlodipine,active,10 mg,daily,Norvasc
+3327,esomeprazole,active,40 mg,daily,Nexium
+3327,fexofenadine,active,180 mg,daily,Allegra
+3327,paroxetine,active,25 mg,daily,Paxil
+3327,fluticasone-salmeterol,active,10 mg,at bedtime,Advair; dose as written
+3327,lorazepam,active,1 mg,at bedtime,Ativan
+3327,latanoprost,active,,,Xalatan drops
+3327,fluticasone,active,,as needed,Flovent
+3327,salmeterol,active,,as needed,Serevent
+3360,spironolactone,active,25 mg,daily,
+3360,digoxin,active,0.125 mg,every other day,
+3360,warfarin,active,3 mg,,Coumadin; 4.5 mg weekends
+3360,metolazone,active,10 mg,daily,
+3360,captopril,active,25 mg,three times daily,
+3360,torsemide,active,40 mg,in the morning,20 mg evening
+3360,carvedilol,active,3.125 mg,twice daily,
+3368,ibuprofen,active,,,
+3368,triamcinolone,planned,,daily,Nasacort AQ two sprays each nostril
+3368,guaifenesin-phenylephrine,planned,,twice daily,Duraphen II
+3368,fluticasone,planned,0.05%,twice daily,Cutivate cream refill
+3368,cephalexin,allergy,,,
+3388,oral contraceptive,active,,,birth control pills
+3396,clopidogrel,discharge,,daily,Plavix x1 month
+3411,amphetamine-dextroamphetamine,discharge,,,Adderall
+3411,clonidine,discharge,,,
+3411,polyethylene glycol,historical,,,MiraLax before admission
+3413,aspirin,active,325 mg,,
+3413,simvastatin,active,20 mg,daily,Zocor
+3413,labetalol,active,,as needed,prn for SBP>200
+3413,alteplase,negated,,,not a candidate for tPA
+3425,imipenem-cilastatin,active,,,Primaxin
+3425,daptomycin,active,,,
+3425,clonidine,active,,,
+3425,furosemide,active,,,
+3425,potassium chloride,active,,,
+3425,lisinopril,active,,,
+3425,metoprolol,active,,,
+3425,ranitidine,active,,,
+3425,docusate,active,,,Colace
+3425,amlodipine,active,,,
+3425,zinc sulfate,active,,,
+3425,hydrocodone-acetaminophen,active,,as needed,Lortab
+3425,multivitamin,active,,,with minerals
+3428,ondansetron,active,,,Zofran
+3428,pantoprazole,active,,,Protonix
+3428,fentanyl,active,,,patch
+3428,levothyroxine,active,,,Synthroid
+3428,lorazepam,active,,,Ativan
+3428,zolpidem,active,,,Ambien
+3428,calcium carbonate,historical,,,"Tums, did not help"
+3539,isosorbide,active,,,Imdur
+3539,metoprolol,active,,,
+3539,levothyroxine,active,,,Synthroid
+3539,clopidogrel,negated,,,Plavix discontinued/held
+3539,pantoprazole,inpatient,,,IV Protonix
+3539,famotidine,discharge,40 mg,at bedtime,Pepcid
+3539,omeprazole,negated,,,avoided; pancreatitis history
+3539,bismuth subsalicylate,negated,,,avoid Pepto-Bismol
+3936,methotrexate,inpatient,5 g/m2,,cycle five high-dose
+3936,rituximab,inpatient,,weekly,
+3936,leucovorin,inpatient,100 mg/m2,,"rescue, increased"
+3936,cefepime,discharge,,,14-day IV course at home
+3936,vancomycin,inpatient,,,empiric
+3936,ciprofloxacin,historical,,,"oral Cipro, then changed to cefepime"
+3936,heparin,negated,,,held pending HIT antibody
+3936,fondaparinux,inpatient,,,Arixtra prophylaxis
+3979,levofloxacin,inpatient,,,Levaquin IV
+3979,methylprednisolone,inpatient,,,Solu-Medrol IV
+3979,lisinopril,discharge,20 mg,twice daily,
+3979,digoxin,discharge,0.125 mg,daily,
+3979,prednisone,discharge,20 mg,twice daily,
+3979,theophylline,discharge,400 mg,daily,Theo-24
+3979,furosemide,discharge,40 mg,daily,1.5 tabs
+3979,acetazolamide,discharge,250 mg,daily,
+3979,nitroglycerin,discharge,1 inch,at bedtime,paste
+3979,potassium chloride,discharge,60 mEq,twice daily,K-Dur
+3979,albuterol,discharge,,as needed,Ventolin inhaler q4h
+3979,triamcinolone,discharge,,twice daily,Azmacort four puffs
