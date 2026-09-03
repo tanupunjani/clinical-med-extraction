@@ -6,6 +6,8 @@ reference/
 *.csv.gz
 *.parquet
 *.jsonl
+*.xlsx
+*.xls
 !tests/fixtures/*.csv
 
 # ---- Secrets ----
