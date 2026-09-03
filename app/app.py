@@ -8,6 +8,8 @@ This file lives in app/ alongside synced copies of sectionizer.py and
 rules_extractor.py so the Hugging Face Space bundle is self-contained.
 Regenerate the copies with: python scripts/sync_app.py
 """
+import os
+
 import pandas as pd
 import gradio as gr
 
@@ -120,4 +122,7 @@ with gr.Blocks(title="Clinical Medication Extraction") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=int(os.environ.get("PORT", 7860)),
+    )
