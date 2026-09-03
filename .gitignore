@@ -1,0 +1,45 @@
+# ---- Data (DUA protection: nothing in data/ ever gets committed) ----
+data/
+working/
+reference/
+*.csv
+*.csv.gz
+*.parquet
+*.jsonl
+!tests/fixtures/*.csv
+
+# ---- Secrets ----
+.env
+*.pem
+secrets*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Models & outputs ----
+models/
+outputs/
+*.pkl
+*.pt
+*.safetensors
+logs/
+*.log
+
+# ---- Caches ----
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ---- macOS / IDE ----
+.DS_Store
+.vscode/
+.idea/
