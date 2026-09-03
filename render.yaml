@@ -3,5 +3,5 @@ services:
     name: clinical-med-extraction
     runtime: python
     plan: free
-    buildCommand: pip install -r app/requirements.txt
-    startCommand: python app/app.py
+    buildCommand: python3 -m pip install -r app/requirements.txt
+    startCommand: python3 app/app.py
