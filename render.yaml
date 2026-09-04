@@ -1,9 +1,6 @@
 services:
   - type: web
     name: clinical-med-extraction
-    runtime: python
+    runtime: docker
     plan: free
-    startCommand: python app/app.py
-    envVars:
-      - key: PYTHON_VERSION
-        value: "3.11"
+    dockerfilePath: ./Dockerfile
