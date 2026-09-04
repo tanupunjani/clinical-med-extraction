@@ -1,0 +1,5 @@
+gradio==4.44.1
+pandas==2.2.3
+huggingface_hub<0.26
+pydantic<2.10
+fastapi<0.116

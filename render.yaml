@@ -3,5 +3,7 @@ services:
     name: clinical-med-extraction
     runtime: python
     plan: free
-    buildCommand: python3 -m pip install -r app/requirements.txt
-    startCommand: python3 app/app.py
+    startCommand: python app/app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11"
